@@ -1,0 +1,27 @@
+h1, h2, h3, h4{
+    color: green;
+    font-size: 30px;
+    background-color: rgb(119, 0, 255);
+}
+
+h1{
+    color: coral;
+}
+
+.uppercase{
+    text-transform: uppercase;
+    color:brown;
+    background-color: purple;
+}
+            
+.important{
+    color: red;
+}
+
+#the_one{
+    color: blue;
+}
+
+#idk{
+    color: burlywood;
+}
